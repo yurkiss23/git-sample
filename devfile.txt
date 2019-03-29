@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Hello Dev
-
-Hello new change
-=======
-Hello Dev my change
->>>>>>> change file
